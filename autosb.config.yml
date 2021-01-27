@@ -1,0 +1,13 @@
+# 用户自定义配置项
+
+springboot:
+  groupId: oliver.project
+  config: false
+
+mysql:
+  version: 1234
+
+redis:
+  version: 4.0.0
+
+project:

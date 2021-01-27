@@ -1,0 +1,6 @@
+<dependency>
+		<groupId>mysql</groupId>
+		<artifactId>mysql-connector-java</artifactId>
+		<version>${mysqlVersion}</version>
+		<scope>runtime</scope>
+</dependency>

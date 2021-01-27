@@ -1,0 +1,17 @@
+# 项目初始化配置文件
+
+springboot:
+  basedir: . # 项目创建目录, 默认. 命令行当前目录
+  groupId: com.project
+  artifactId: test
+  version: 0.0.1-SNAPSHOT
+  javaVersion: 11
+  description: Demo project for spring boot
+
+redis:
+  version: 1.0.0
+  ip: 127.0.0.1
+
+mysql:
+  version: 1.0.0
+

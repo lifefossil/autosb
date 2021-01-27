@@ -1,0 +1,5 @@
+spring:
+	servlet:
+		multipart:
+			max-file-size: 1099511627776
+			max-request-size: 1099511627776
