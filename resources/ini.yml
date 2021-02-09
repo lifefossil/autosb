@@ -6,6 +6,7 @@ springboot:
   artifactId: test
   version: 0.0.1-SNAPSHOT
   javaVersion: 11
+  springbootVersion: 2.3.8
   description: Demo project for spring boot
 
 redis:

@@ -1,7 +1,7 @@
 # 用户配置文件
 
 springboot:
-  basedir: . # 项目创建目录, 默认. 命令行当前目录
+  basedir: . # 项目创建目录, 默认. 命令行当前目录. 自定义需要填写绝对路径
   groupId: com.project
   artifactId: test
   version: 0.0.1-SNAPSHOT
@@ -10,4 +10,4 @@ springboot:
 
 project:
   installed:
-    version:
+    autosb: 0.0.1

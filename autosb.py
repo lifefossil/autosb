@@ -7,7 +7,7 @@ if __name__ == '__main__':
     # 初始化命令行参数, 并返回解析后的命令行参数
     args = handle_args.HandleArgs().parser()
     if args.version:
-        print("autosb: 0.0.12")
+        print("autosb's version: 0.0.1")
         exit(0)
     config = None
     # 判断用户是否有自定义配置文件, 如果有则和默认配置文件合并, 并覆盖默认配置文件参数
